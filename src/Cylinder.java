@@ -16,8 +16,8 @@ public class Cylinder extends Shape{
 
     public String toString(){
         String str = "";
-        str = "Cylinder surface area: " +  surface_area() +
-                "\nCylinder volume: " + volume();
+        str = "Cylinder surface area: " +  String.format("%.2f square inches",surface_area()) +
+                "\nCylinder volume: " + String.format("%.2f cubic inches",volume());
         return str;
     }
 }

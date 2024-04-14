@@ -16,8 +16,8 @@ public class Cone extends Shape{
 
     public String toString(){
         String str = "";
-        str = "Cone surface area: " +  surface_area() +
-                "\nCone volume: " + volume();
+        str = "Cone surface area: " +  String.format("%.2f square inches",surface_area()) +
+                "\nCone volume: " + String.format("%.2f cubic inches",volume());
         return str;
     }
 }
