@@ -14,8 +14,8 @@ public class Sphere extends Shape {
 
     public String toString(){
         String str = "";
-        str = "Sphere surface area: " +  String.format("%.2f square inches",surface_area()) +
-        "\nSphere volume: " + String.format("%.2f cubic inches",volume());
+        str = "Sphere surface area:    " +  String.format("%.2f square inches",surface_area()) +
+        "\nSphere volume:          " + String.format("%.2f cubic inches",volume());
         return str;
     }
 }
