@@ -12,6 +12,7 @@ public class Sphere extends Shape {
         return (4.0 / 3.0) * Math.PI * Math.pow(radius, 3);
     }
 
+    @Override
     public String toString(){
         String str = "";
         str = "Sphere surface area:    " +  String.format("%.2f square inches",surface_area()) +
