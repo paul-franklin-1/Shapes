@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="569d1840-adfe-4d93-bf9f-0b042d5805ec" name="Changes" comment="completing &quot;Sphere&quot; file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="569d1840-adfe-4d93-bf9f-0b042d5805ec" name="Changes" comment="next save, Cylinder complete">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ShapeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShapeArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sphere.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +38,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.ShapeArray.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -66,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713053538852</updated>
-      <workItem from="1713053540013" duration="3847000" />
+      <workItem from="1713053540013" duration="6650000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -84,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713056608899</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="next save, Cylinder complete">
+      <option name="closed" value="true" />
+      <created>1713059424222</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713059424222</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +114,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="completing &quot;Sphere&quot; file" />
-    <option name="LAST_COMMIT_MESSAGE" value="completing &quot;Sphere&quot; file" />
+    <MESSAGE value="next save, Cylinder complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="next save, Cylinder complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
