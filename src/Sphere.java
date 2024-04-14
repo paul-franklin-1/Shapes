@@ -11,10 +11,11 @@ public class Sphere extends Shape {
     double volume() {
         return (4.0 / 3.0) * Math.PI * Math.pow(radius, 3);
     }
+
     public String toString(){
         String str = "";
         str = "Sphere surface area: " +  surface_area() +
-        "\n Sphere volume: " + volume();
+        "\nSphere volume: " + volume();
         return str;
     }
 }
